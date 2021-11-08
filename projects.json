@@ -1,0 +1,14 @@
+[
+  {
+    "name": "GA Project 1",
+    "live": "https://seir-penguin-project-1-roan.vercel.app/",
+    "git": "https://github.com/underdoggum/seir_penguin_project_1",
+    "image": "./images/Project-1-screenshot.png"
+  },
+  {
+    "name": "GA Project 2",
+    "live": "https://nn-penguin-project2.herokuapp.com/",
+    "git": "https://github.com/underdoggum/seir_penguin_project_2",
+    "image": "./images/Project-2-screenshot.png"
+  }
+]
